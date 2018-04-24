@@ -9,13 +9,12 @@ body {
 .grid-container {
 	display: grid;
 	grid-template-areas: 
-	'bitcoin bitcoin etherium etherium'
-	'ripple ripple eos eos'
-	'bitcoinCash bitcoinCash liteCoin liteCoin'
-	'tronix tronix etheriumClassic etheriumClassic'
-	'huobiToken huobiToken digitalCash digitalCash';
+	'bitcoin bitcoin etheriumClassic etheriumClassic'
+	'bitcoinCash bitcoinCash eos eos'
+	'etherium etherium huobiToken huobiToken'
+	'digitalCash digitalCash ripple ripple'
+	'liteCoin liteCoin tronix tronix';
 	grid-gap: 10px;
-	background-color: #262626;
 	padding: 10px;
 }
 
@@ -56,3 +55,10 @@ body {
 .item8 { grid-area: etheriumClassic; }
 .item9 { grid-area: huobiToken; }
 .item10 { grid-area: digitalCash; }
+
+.increasedValue {
+  background: #008000!important;
+}
+.decreasedValue {
+  background: #da0000!important;
+}
