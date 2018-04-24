@@ -1,3 +1,3 @@
 # CryptoCurrencyTracker
 Market value tracker of 10 popular cryptocurrencies. The app is built in Electron framework.
-![image](https://user-images.githubusercontent.com/15221488/39204381-edabc5d6-47f7-11e8-9490-a29233f342a4.png)
+![image](https://user-images.githubusercontent.com/15221488/39204472-2add5f64-47f8-11e8-9c75-807a1c21a5d7.png)
